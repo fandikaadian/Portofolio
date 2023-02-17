@@ -210,10 +210,13 @@ p
     height: 4px;
     background: #000;
 }
-.title.white h2,
-.title.white p
+.title.white h2
 {
     color: #fff;
+}
+.title.white p
+{
+    color: #65647C;
 }
 .title.white h2::before
 {
